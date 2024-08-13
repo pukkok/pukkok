@@ -1,4 +1,4 @@
-## 푹곡 👋
+## 👋 푹곡 👋
 
 <h3>✨ 기술 스택 </h3>
 <div>
@@ -14,7 +14,18 @@ https://pukkok.github.io/
 https://github.com/pukkok
 
 <h3>🌱 홈페이지 제작</h3>
-<a href=""></a>
+<div>
+  <h4>유치원 모으미</h4>
+  <a href="https://kindermoumi-browser.vercel.app">바로가기</a>
+</div>
+<div>
+  <h4>영림 리뉴얼</h4>
+  <a href="https://pukkok.github.io/younglim-renewal">바로가기</a>
+</div>
+<div>
+  <h4>하이트 리뉴얼</h4>
+  <a href="https://kindermoumi-browser.vercel.app">바로가기</a>
+</div>
 
 <h3>🌱 Canvas 연습</h3>
 <div>
@@ -32,8 +43,18 @@ https://github.com/pukkok
   <a href=https://pukkok.github.io/alpha-sniper>게임하기</a>
   <a href=https://github.com/pukkok/alpha-sniper>깃허브</a>
 </div>
-<h3>🌱 JS 알고리즘 연습</h3>
 
+<h3>🌱 JS 알고리즘 연습</h3>
+<div>
+  <h4>스도쿠</h1>
+  <a href=https://pukkok.github.io/sudoku>게임하기</a>
+  <a href=https://github.com/pukkok/sudoku>깃허브</a>
+</div>
+<div>
+  <h4>체스</h1>
+  <a href=https://pukkok.github.io/chess>게임하기</a>
+  <a href=https://github.com/pukkok/chess>깃허브</a>
+</div>
 
 
 <!--
