@@ -14,9 +14,18 @@
 
 <h3>🌱 홈페이지 제작</h3>
 <div>
-  <h4>유치원 모으미 <a href="https://kindermoumi-browser.vercel.app">[바로가기]</a></h4>
-  <h4>영림 리뉴얼 <a href="https://pukkok.github.io/younglim-renewal">[바로가기]</a></h4>
-  <h4>하이트 리뉴얼 <a href="https://kindermoumi-browser.vercel.app">[바로가기]</a></h4>
+  <h4>유치원 모으미 
+    <a href="https://kindermoumi-browser.vercel.app">[바로가기]</a>
+    <a href="https://github.com/pukkok/kindermoumi">[깃허브]</a>
+  </h4>
+  <h4>영림 리뉴얼 
+    <a href="https://pukkok.github.io/younglim-renewal">[바로가기]</a>
+    <a href="https://github.com/pukkok/younglim-renewal">[깃허브]</a>
+  </h4>
+  <h4>하이트 리뉴얼
+    <a href="https://pukkok.github.io/hite-html-coding">[바로가기]</a>
+    <a href="https://https://github.com/pukkok/hite-html-coding">[깃허브]</a>  
+  </h4>
 </div>
 
 <h3>🌱 Canvas 연습</h3>
