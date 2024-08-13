@@ -36,7 +36,7 @@
   </h4>
 </div>
 <div>
-  <h4>벽돌 부수기
+  <h4>벽돌 뿌수기
   <a href=https://pukkok.github.io/brickbreaker>[게임하기]</a>
   <a href=https://github.com/pukkok/brickbreaker>[깃허브]</a>
   </h4>
@@ -56,7 +56,7 @@
   </h4>
 </div>
 <div>
-  <h4>체스
+  <h4>그림판 체스
   <a href=https://pukkok.github.io/chess>[게임하기]</a>
   <a href=https://github.com/pukkok/chess>[깃허브]</a>
   </h4>
