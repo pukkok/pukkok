@@ -47,6 +47,12 @@
   <a href=https://github.com/pukkok/alpha-sniper>[깃허브]</a>
   </h1>
 </div>
+<div>
+  <h4>8월 15일 광복절 태극기 그리기
+  <a href=https://pukkok.github.io/Taegeukgi>[결과보기]</a>
+  <a href=https://github.com/pukkok/Taegeukgi>[깃허브]</a>
+  </h4>
+</div>
 
 <h3>🌱 JS 알고리즘 연습</h3>
 <div>
