@@ -16,15 +16,15 @@
 <div>
   <h4>유치원 모으미 
     <a href="https://kindermoumi-browser.vercel.app">[바로가기]</a>
-    <a href="https://github.com/pukkok/kindermoumi">[깃허브]</a>
+    <a href="https://github.com/pukkok/kindermoumi">[리드미]</a>
   </h4>
   <h4>영림 리뉴얼 
     <a href="https://pukkok.github.io/younglim-renewal">[바로가기]</a>
-    <a href="https://github.com/pukkok/younglim-renewal">[깃허브]</a>
+    <a href="https://github.com/pukkok/younglim-renewal">[리드미]</a>
   </h4>
   <h4>하이트 리뉴얼
     <a href="https://pukkok.github.io/hite-html-coding">[바로가기]</a>
-    <a href="https://https://github.com/pukkok/hite-html-coding">[깃허브]</a>  
+    <a href="https://https://github.com/pukkok/hite-html-coding">[리드미]</a>  
   </h4>
 </div>
 
@@ -32,25 +32,25 @@
 <div>
   <h4>타워 디펜스
   <a href=https://pukkok.github.io/tower-defense>[게임하기]</a>
-  <a href=https://github.com/pukkok/tower-defense>[깃허브]</a>
+  <a href=https://github.com/pukkok/tower-defense>[게임방법]</a>
   </h4>
 </div>
 <div>
   <h4>벽돌 뿌수기
   <a href=https://pukkok.github.io/brickbreaker>[게임하기]</a>
-  <a href=https://github.com/pukkok/brickbreaker>[깃허브]</a>
+  <a href=https://github.com/pukkok/brickbreaker>[게임방법]</a>
   </h4>
 </div>
 <div>
   <h4>알파벳 스나이퍼
   <a href=https://pukkok.github.io/alpha-sniper>[게임하기]</a>
-  <a href=https://github.com/pukkok/alpha-sniper>[깃허브]</a>
+  <a href=https://github.com/pukkok/alpha-sniper>[게임방법]</a>
   </h1>
 </div>
 <div>
   <h4>8월 15일 광복절 태극기 그리기
   <a href=https://pukkok.github.io/Taegeukgi>[결과보기]</a>
-  <a href=https://github.com/pukkok/Taegeukgi>[깃허브]</a>
+  <a href=https://github.com/pukkok/Taegeukgi>[리드미]</a>
   </h4>
 </div>
 
@@ -58,13 +58,13 @@
 <div>
   <h4>스도쿠
   <a href=https://pukkok.github.io/sudoku>[게임하기]</a>
-  <a href=https://github.com/pukkok/sudoku>[깃허브]</a>
+  <a href=https://github.com/pukkok/sudoku>[리드미]</a>
   </h4>
 </div>
 <div>
   <h4>그림판 체스https://www.google.co.krhttps://www.google.co.kr//
   <a href=https://pukkok.github.io/chess>[게임하기]</a>
-  <a href=https://github.com/pukkok/chess>[깃허브]</a>
+  <a href=https://github.com/pukkok/chess>[리드미]</a>
   </h4>
 </div>
 
@@ -73,9 +73,10 @@
 
 <blockquote> 백준 문제풀이 </blockquote>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=pukkok&theme=warm)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pukkok)](https://solved.ac/pukkok)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pukkok&theme=warm)
+
 
 <!--
 
