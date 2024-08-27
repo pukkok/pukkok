@@ -73,8 +73,7 @@
 
 <blockquote> 백준 문제풀이 </blockquote>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pukkok)](https://solved.ac/pukkok)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=pukkok)](https://solved.ac/pukkok)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pukkok&theme=warm)
 
 
