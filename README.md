@@ -62,17 +62,28 @@
   </h4>
 </div>
 <div>
-  <h4>그림판 체스
+  <h4>그림판 체스https://www.google.co.krhttps://www.google.co.kr//
   <a href=https://pukkok.github.io/chess>[게임하기]</a>
   <a href=https://github.com/pukkok/chess>[깃허브]</a>
   </h4>
 </div>
 
+<br>
+<br>
+
+<blockquote> 백준 문제풀이 </blockquote>
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=pukkok&theme=warm)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pukkok)](https://solved.ac/pukkok)
+
 <!--
 
-<img src="http://mazandi.herokuapp.com/api?handle={pukkok}&theme=warm"/>
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pukkok)](https://solved.ac/pukkok)
+
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pukkok&show_icons=true&theme=radical)
