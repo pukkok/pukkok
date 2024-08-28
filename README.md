@@ -62,7 +62,7 @@
   </h4>
 </div>
 <div>
-  <h4>그림판 체스https://www.google.co.krhttps://www.google.co.kr//
+  <h4>그림판 체스
   <a href=https://pukkok.github.io/chess>[게임하기]</a>
   <a href=https://github.com/pukkok/chess>[리드미]</a>
   </h4>
