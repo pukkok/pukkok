@@ -1,5 +1,10 @@
 ## 👋 푹곡 👋
 
+- 안녕하세요. 신입개발자 서민석입니다.
+- 필요한 것을 찾다가 필요한 것을 만드는 사람이 되기 위해, 지금은 개발에 도전하고 있습니다.
+- 도움이 되는 사람, 필요한 사람이 될 때 행복합니다.
+- 지금은 캔버스 태그에 관심이 많습니다.
+
 <h3>✨ 기술 스택 </h3>
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
