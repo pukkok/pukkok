@@ -23,8 +23,9 @@
 <div>
   <h4>폼톡(설문조사 대시보드)
     <a href="https://formtok.vercel.app/">[바로가기]</a>
-    <a href="https://github.com/pukkok/whale-form">[리드미]</a>
+    <a href="https://github.com/pukkok/formtok">[리드미]</a>
   </h4>
+  <h6>설문지 제작과 관리를 한번에</h6>
 </div>
 
 <h3>🌱 홈페이지 제작</h3>
