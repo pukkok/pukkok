@@ -21,7 +21,7 @@
 
 <h3>🔭 작업중</h3>
 <div>
-  <h4>웨일폼(설문조사 대시보드)
+  <h4>폼톡(설문조사 대시보드)
     <a href="https://formtok.vercel.app/">[바로가기]</a>
     <a href="https://github.com/pukkok/whale-form">[리드미]</a>
   </h4>
