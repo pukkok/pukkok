@@ -7,44 +7,23 @@
 
 <br>
 
-<h3>✨ 기술 스택 </h3>
-<div>
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp
-</div>
-
+### 🔭 작업중
+#### 폼톡(설문조사 대시보드) [[바로가기]](https://formtok.vercel.app/) [[리드미]](https://github.com/pukkok/formtok)
+###### 간단 설명 : 설문지 제작과 관리를 한번에
 <br>
 
-<h3>🔭 작업중</h3>
-<div>
-  <h4>폼톡(설문조사 대시보드)
-    <a href="https://formtok.vercel.app/">[바로가기]</a>
-    <a href="https://github.com/pukkok/formtok">[리드미]</a>
-  </h4>
-  <h6>설문지 제작과 관리를 한번에</h6>
-</div>
+### 🌱 홈페이지 제작
+#### 유치원 모으미 [[바로가기]](https://kindermoumi-browser.vercel.app) [[리드미]](https://github.com/pukkok/kindermoumi)
+###### 간단 설명 : 유치원 홈페이지 제작 및 관리 플랫폼
 
-<h3>🌱 홈페이지 제작</h3>
-<div>
-  <h4>유치원 모으미 
-    <a href="https://kindermoumi-browser.vercel.app">[바로가기]</a>
-    <a href="https://github.com/pukkok/kindermoumi">[리드미]</a>
-  </h4>
-  <h4>영림 리뉴얼 
-    <a href="https://pukkok.github.io/younglim-renewal">[바로가기]</a>
-    <a href="https://github.com/pukkok/younglim-renewal">[리드미]</a>
-  </h4>
-  <h4>하이트 리뉴얼
-    <a href="https://pukkok.github.io/hite-html-coding">[바로가기]</a>
-    <a href="https://https://github.com/pukkok/hite-html-coding">[리드미]</a>  
-  </h4>
-</div>
+#### 영림 홈페이지 [[바로가기]](https://pukkok.github.io/younglim-renewal) [[리드미]](https://github.com/pukkok/younglim-renewal)
+###### 간단 설명 : 클론 코딩 및 리뉴얼
 
-<h3>🌱 Canvas 연습</h3>
+#### 하이트 홈페이지 [[바로가기]](https://pukkok.github.io/hite-html-coding) [[리드미]](https://https://github.com/pukkok/hite-html-coding)
+###### 간단 설명 : 클론 코딩 및 리뉴얼
+<br>
+
+### 🌱 Canvas 연습
 <div>
   <h4>타워 디펜스
   <a href=https://pukkok.github.io/tower-defense>[게임하기]</a>
@@ -69,7 +48,7 @@
   <a href=https://github.com/pukkok/Taegeukgi>[리드미]</a>
   </h4>
 </div>
-
+<br>
 <h3>🌱 JS 알고리즘 연습</h3>
 <div>
   <h4>스도쿠
@@ -85,6 +64,18 @@
 </div>
 
 <br>
+<br>
+
+<h3>✨ 기술 스택 </h3>
+<div>
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp
+</div>
+
 <br>
 
 <blockquote> 백준 문제풀이 </blockquote>
