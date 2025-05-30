@@ -19,7 +19,7 @@
 #### 영림 홈페이지 [[바로가기]](https://pukkok.github.io/younglim-renewal) [[리드미]](https://github.com/pukkok/younglim-renewal)
 ###### 간단 설명 : 클론 코딩 및 리뉴얼
 
-#### 하이트 홈페이지 [[바로가기]](https://pukkok.github.io/hite-html-coding) [[리드미]](https://https://github.com/pukkok/hite-html-coding)
+#### 하이트 홈페이지 [[바로가기]](https://pukkok.github.io/hite-html-coding) [[리드미]](https://github.com/pukkok/hite-html-coding)
 ###### 간단 설명 : 클론 코딩 및 리뉴얼
 <br>
 
